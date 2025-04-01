@@ -1,0 +1,85 @@
+reason,text
+gpt_distraction,Got sidetracked by GPT storytelling or chatting instead of prompting for actual code or architecture.
+ui_overfocus,Spent too long tweaking UI instead of implementing the core logic or backend flow.
+dopamine_scroll,Slid into endless scrolling loops across Twitter YouTube or IG Reels.
+story_mode_waste,Wrote fictional story prompts instead of building real-world code or systems.
+no_clear_goal,Started the day without a specific goal or module to complete.
+too_many_tabs,Hopped between 10+ tabs with no focused learning or execution plan.
+no_execution_log,Didn’t track what was done or learned causing loss of momentum and clarity.
+blue_light_exposure,Used screens too late into the night killing sleep quality and morning energy.
+late_dinner_crash,Ate dinner too late killing discipline and disrupting sleep schedule.
+no_visual_plan,Lacked whiteboard or diagram for mental clarity on what to build.
+shallow_prompting,Used vague GPT prompts instead of direct technical ones for real progress.
+no_timer_sprint,Didn’t use Pomodoro or timers led to wandering and shallow work.
+ignored_checklist,Had a checklist but didn’t follow it allowing chaos to take over.
+no_code_review,Didn’t reread previous code so context was lost before continuing work.
+got_stuck_bug,Spent too long on a bug without isolating debugging or asking for help.
+no_module_plan,Wrote everything in one file with no modular breakdown.
+school_brain_drain,Wasted peak hours on schoolwork that doesn’t push AI goals.
+no_coding_warmup,Jumped into hard tasks cold without writing warmup code.
+infinite_paper_skims,Read paper abstracts endlessly without implementing or applying anything.
+too_many_repos,Browsed 15 GitHub projects but cloned none or ran zero.
+env_not_primed,Didn’t optimize desk sound or lighting for deep work flow.
+ai_as_crutch,Let GPT lead instead of using it as an execution amplifier.
+no_end_vision,Didn’t visualize final product lost emotional drive to ship.
+unplanned_branch,Merged code with no git strategy or branch separation.
+no_milestone_win,Didn’t build toward a demo or checkpoint that feels like progress.
+overcomplex_design,Overengineered before MVP wasting cognitive stamina.
+youtube_trap,Fell into the YouTube algorithm loop under the excuse of “research.”
+no_journaling,Didn’t log thoughts bugs or learning—so mental clutter built up.
+ignored_linter,Skipped linting or formatting caused later tech debt.
+sleep_debt_stack,Built up multiple nights of 6-hour sleep killing focus.
+brain_fog_session,Woke up and started coding too late into the day.
+discord_drift,Jumped into Discord for “networking” and stayed too long.
+rabbit_hole_docs,Read docs for tools never used in the actual project.
+no_microtask,Started vague tasks with no chunking or subgoal planning.
+zoomed_into_edgecase,Wrote niche logic early on instead of main functionality.
+no_test_cases,Didn’t write test inputs so code couldn’t be safely iterated on.
+overused_tempfix,Patched bugs repeatedly without rewriting root cause.
+ignored_errors_log,Didn’t read error trace or logs deeply—just kept rerunning.
+no_live_demo,Skipped building deployable version so motivation collapsed.
+model_swap_spam,Kept switching ML models without evaluating any properly.
+undocumented_data,Didn’t explore or comment on dataset—blind preprocessing.
+half_baked_mvp,Left demo half-done forgot where you stopped the next day.
+too_many_plugins,Installed 8 browser extensions to “stay focused” but used none.
+mental_whining_loop,Internal negative self-talk loop prevented action.
+avoided_hard_part,Consciously avoided the toughest module for too long.
+no_repo_backup,Forgot to push to GitHub then lost local progress.
+zoom_class_overhang,Mentally drained after class didn’t reset for execution.
+notebook_hell,Wrote everything in Jupyter but didn’t modularize for real code reuse.
+no_reward_loop,Didn’t create reward anchors after completing sessions.
+no_startup_routine,Skipped AM priming routine (cold water sunlight etc.).
+info_hoarder_mode,Saved links and notes without turning them into actions.
+too_much_learning_mode,Consumed without applying or experimenting live.
+tab_overload_freeze,Froze mentally due to 30+ tabs of scattered context.
+calendar_was_blank,Didn’t time-block execution windows—day drifted away.
+team_depend_blocked,Waited on teammates instead of building parallel components.
+codebase_forgot,Left project for too long and forgot architecture.
+false_research,Read for hours but it had zero link to your real project.
+overreading_docstring,Spent 20 mins rereading a docstring without building anything.
+env_error_loop,Got stuck on Python/env errors and didn’t isolate with a fresh venv.
+project_scope_bloat,Kept adding features instead of locking scope.
+ignored_past_lessons,Repeated old mistakes that were already journaled.
+afternoon_burnout,Woke up late and peaked too early crashed mid-afternoon.
+multi_project_split,Started multiple side projects and made progress on none.
+no_code_snippets,Didn’t keep reusable snippets so rewrote boilerplate again.
+terminal_fear,Felt intimidated by CLI or Docker so avoided deployment tasks.
+tool_install_loop,Installed tools never used them (LangChain AutoGPT etc.).
+no_goal_why,Didn’t reconnect with the *why* of your goal—effort felt hollow.
+autopilot_mode,Went through the motions without self-awareness or reflection.
+session_no_endcap,Didn’t end session with a short summary + next steps list.
+blue_light_wreck,Didn’t wear blue-light glasses at night ruined focus next day.
+no_digital_fasting,Started day by checking phone or web—attention fractured.
+tmi_brain_bloat,Consumed too many ideas at once—no implementation clarity.
+wrong_time_to_code,Tried deep work at low-energy time (e.g. post-meal).
+procrastinated_launch,Delayed launching demo/MVP because “it’s not ready.”
+mental_context_loss,Didn’t reload your mental context before jumping in again.
+feature_shame,Too afraid to show your product so you delayed pushing it live.
+no_feedback_loop,Built in isolation—never tested assumptions or results.
+skip_mvp_phase,Tried to go full product without MVP lost motivation halfway.
+unrealistic_dayplan,Planned too much got demoralized when 80% was unfinished.
+visuals_over_speed,Spent time making graphs look pretty instead of analyzing.
+no_async_system,Didn’t leverage async tools or parallel pipelines when you could.
+no_logical_flow,Built out-of-order leading to spaghetti logic.
+emotion_kill_focus,Felt emotionally off and let it kill execution instead of transmuting it.
+
